@@ -1,0 +1,6 @@
+IdCharge,IdEnseignant,IdModule,IdFiliere,IdAnnee,HeuresCours,HeuresTD,HeuresTP,VolumeHoraireTotal
+1,101,201,301,2023,30,15,10,55
+2,102,202,302,2023,25,10,8,43
+3,103,201,301,2024,28,12,10,50
+4,101,203,303,2024,32,18,12,62
+5,104,204,302,2024,20,8,6,34
